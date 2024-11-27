@@ -1,0 +1,14 @@
+/* src/index.css or src/styles.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Very-Dark-Gray: "hsl(0, 0%, 17%)";
+  --Dark-Gray: "hsl(0, 0%, 59%)";
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+}
